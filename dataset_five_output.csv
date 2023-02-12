@@ -1,0 +1,6 @@
+Product,Season,Location,Competetion_in_Market,Marketing,Consumer_Bahviour,Discounted_price,Product_Quality,Product_Availability,Probabilty_of_sale,Recession,Self_location,No_of_shelf,Unit_cost,Product_cost,Product_prob,Essential_product
+Cold Drinks,1,1.0,1,0,0,0.5,1,1,1,1,1.0,0.3,8,10,1.0,1.0
+Sugar,1,0.0,1,1,1,0.5,1,1,1,1,1.0,0.1,10,15,0.8200000000000001,0.5
+Medicines ,0,1.0,1,0,1,0.4,1,1,1,1,0.0,0.4,15,20,0.8800000000000001,1.0
+Milk,1,0.5,1,0,1,0.4,1,1,1,1,0.5,0.4,22,25,0.95,0.5
+candies,1,0.0,1,1,0,0.0,1,1,1,1,0.5,0.4,24,30,0.53,1.0
